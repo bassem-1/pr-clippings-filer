@@ -1,0 +1,12 @@
+vendor/
+*.app/
+*.zip
+__pycache__/
+.DS_Store
+dist/
+# app icon artwork (may be licensed; keep local)
+AppIcon.icns
+AppIcon.png
+*.jpg
+*.jpeg
+icon-source.*
